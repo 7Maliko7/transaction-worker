@@ -1,0 +1,7 @@
+.build
+*.yml
+*.yaml
+!docker/*.yaml
+!docs/*
+storage
+*.exe
